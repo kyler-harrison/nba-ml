@@ -1,0 +1,5 @@
+## NBA Machine Learning
+A mess of old Python scripts I wrote to collect NBA game data from https://www.basketball-reference.com/ and predict the winner of an NBA game. I first created some weird algorithm based on transitivity, and then trained a feedforward neural network (implemented with TensorFlow Keras) to predict the winner of each game. I trained the model on game data from the 2001 to 2010 seasons, and validated it on game data from the 2011-2020 seasons.
+
+### Results
+A bunch of generated output is in the file results.txt. On the validation data (every game from 2011-2020), the model correctly predicts the winner ~65% of the time. This seems like a decent result given that I couldn't find any humans who have a publicly available NBA game prediction history. For the few "experts" I found (https://www.sportsline.com/experts/), it doesn't look like they actually do better than 50% accuracy in the long-term (who would've thought). So, I think I can safely say I've created a superhuman intelligence system in the domain of NBA game outcome prediction.
