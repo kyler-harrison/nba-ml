@@ -1,0 +1,169 @@
+steps_outcome_data/2011_steps_outcome.csv
+
+overall accuracy: 0.6704805491990846
+accuracy when prediction confidence < 0.60: correct 141 / 268, 0.5261194029850746
+accuracy when prediction confidence 0.70 >= 0.60: correct 178 / 269, 0.6617100371747212
+accuracy when prediction confidence 0.80 >= 0.70: correct 161 / 208, 0.7740384615384616
+accuracy when prediction confidence 0.90 >= 0.80: correct 93 / 115, 0.808695652173913
+accuracy when prediction confidence >= 0.90: correct 13 / 14, 0.9285714285714286
+
+total predictions made: 874
+following is % of model confidence
+below 60%: 0.30663615560640733
+60-70%: 0.30778032036613273
+70-80%: 0.2379862700228833
+80-90%: 0.13157894736842105
+90-100%: 0.016018306636155607
+
+
+steps_outcome_data/2012_steps_outcome.csv
+
+overall accuracy: 0.6273209549071618
+accuracy when prediction confidence < 0.60: correct 116 / 243, 0.4773662551440329
+accuracy when prediction confidence 0.70 >= 0.60: correct 147 / 229, 0.6419213973799127
+accuracy when prediction confidence 0.80 >= 0.70: correct 130 / 185, 0.7027027027027027
+accuracy when prediction confidence 0.90 >= 0.80: correct 76 / 91, 0.8351648351648352
+accuracy when prediction confidence >= 0.90: correct 4 / 6, 0.6666666666666666
+
+total predictions made: 754
+following is % of model confidence
+below 60%: 0.3222811671087533
+60-70%: 0.3037135278514589
+70-80%: 0.2453580901856764
+80-90%: 0.1206896551724138
+90-100%: 0.007957559681697613
+
+
+steps_outcome_data/2013_steps_outcome.csv
+
+overall accuracy: 0.66324200913242
+accuracy when prediction confidence < 0.60: correct 164 / 299, 0.5484949832775919
+accuracy when prediction confidence 0.70 >= 0.60: correct 156 / 236, 0.6610169491525424
+accuracy when prediction confidence 0.80 >= 0.70: correct 167 / 234, 0.7136752136752137
+accuracy when prediction confidence 0.90 >= 0.80: correct 86 / 99, 0.8686868686868687
+accuracy when prediction confidence >= 0.90: correct 8 / 8, 1.0
+
+total predictions made: 876
+following is % of model confidence
+below 60%: 0.341324200913242
+60-70%: 0.2694063926940639
+70-80%: 0.2671232876712329
+80-90%: 0.11301369863013698
+90-100%: 0.0091324200913242
+
+
+steps_outcome_data/2014_steps_outcome.csv
+
+overall accuracy: 0.6284090909090909
+accuracy when prediction confidence < 0.60: correct 138 / 285, 0.4842105263157895
+accuracy when prediction confidence 0.70 >= 0.60: correct 170 / 270, 0.6296296296296297
+accuracy when prediction confidence 0.80 >= 0.70: correct 138 / 196, 0.7040816326530612
+accuracy when prediction confidence 0.90 >= 0.80: correct 96 / 115, 0.8347826086956521
+accuracy when prediction confidence >= 0.90: correct 11 / 14, 0.7857142857142857
+
+total predictions made: 880
+following is % of model confidence
+below 60%: 0.32386363636363635
+60-70%: 0.3068181818181818
+70-80%: 0.22272727272727272
+80-90%: 0.13068181818181818
+90-100%: 0.015909090909090907
+
+
+steps_outcome_data/2015_steps_outcome.csv
+
+overall accuracy: 0.6704805491990846
+accuracy when prediction confidence < 0.60: correct 162 / 286, 0.5664335664335665
+accuracy when prediction confidence 0.70 >= 0.60: correct 188 / 299, 0.6287625418060201
+accuracy when prediction confidence 0.80 >= 0.70: correct 148 / 188, 0.7872340425531915
+accuracy when prediction confidence 0.90 >= 0.80: correct 79 / 92, 0.8586956521739131
+accuracy when prediction confidence >= 0.90: correct 9 / 9, 1.0
+
+total predictions made: 874
+following is % of model confidence
+below 60%: 0.32723112128146453
+60-70%: 0.34210526315789475
+70-80%: 0.2151029748283753
+80-90%: 0.10526315789473684
+90-100%: 0.010297482837528604
+
+
+steps_outcome_data/2016_steps_outcome.csv
+
+overall accuracy: 0.6651480637813212
+accuracy when prediction confidence < 0.60: correct 138 / 270, 0.5111111111111111
+accuracy when prediction confidence 0.70 >= 0.60: correct 169 / 266, 0.6353383458646616
+accuracy when prediction confidence 0.80 >= 0.70: correct 156 / 201, 0.7761194029850746
+accuracy when prediction confidence 0.90 >= 0.80: correct 89 / 107, 0.8317757009345794
+accuracy when prediction confidence >= 0.90: correct 32 / 34, 0.9411764705882353
+
+total predictions made: 878
+following is % of model confidence
+below 60%: 0.30751708428246016
+60-70%: 0.30296127562642367
+70-80%: 0.22892938496583143
+80-90%: 0.12186788154897495
+90-100%: 0.0387243735763098
+
+
+steps_outcome_data/2017_steps_outcome.csv
+
+overall accuracy: 0.6449026345933563
+accuracy when prediction confidence < 0.60: correct 149 / 267, 0.5580524344569289
+accuracy when prediction confidence 0.70 >= 0.60: correct 164 / 263, 0.623574144486692
+accuracy when prediction confidence 0.80 >= 0.70: correct 135 / 203, 0.6650246305418719
+accuracy when prediction confidence 0.90 >= 0.80: correct 104 / 127, 0.8188976377952756
+accuracy when prediction confidence >= 0.90: correct 11 / 13, 0.8461538461538461
+
+total predictions made: 873
+following is % of model confidence
+below 60%: 0.30584192439862545
+60-70%: 0.30126002290950743
+70-80%: 0.2325315005727377
+80-90%: 0.145475372279496
+90-100%: 0.014891179839633447
+
+
+steps_outcome_data/2018_steps_outcome.csv
+
+overall accuracy: 0.6525714285714286
+accuracy when prediction confidence < 0.60: correct 167 / 308, 0.5422077922077922
+accuracy when prediction confidence 0.70 >= 0.60: correct 166 / 260, 0.6384615384615384
+accuracy when prediction confidence 0.80 >= 0.70: correct 148 / 197, 0.751269035532995
+accuracy when prediction confidence 0.90 >= 0.80: correct 83 / 102, 0.8137254901960784
+accuracy when prediction confidence >= 0.90: correct 7 / 8, 0.875
+
+total predictions made: 875
+following is % of model confidence
+below 60%: 0.352
+60-70%: 0.29714285714285715
+70-80%: 0.22514285714285714
+80-90%: 0.11657142857142858
+90-100%: 0.009142857142857144
+
+
+steps_outcome_data/2019_steps_outcome.csv
+
+overall accuracy: 0.6365714285714286
+accuracy when prediction confidence < 0.60: correct 131 / 265, 0.49433962264150944
+accuracy when prediction confidence 0.70 >= 0.60: correct 151 / 245, 0.6163265306122448
+accuracy when prediction confidence 0.80 >= 0.70: correct 171 / 229, 0.7467248908296943
+accuracy when prediction confidence 0.90 >= 0.80: correct 87 / 118, 0.7372881355932204
+accuracy when prediction confidence >= 0.90: correct 17 / 18, 0.9444444444444444
+
+total predictions made: 875
+following is % of model confidence
+below 60%: 0.3028571428571429
+60-70%: 0.28
+70-80%: 0.26171428571428573
+80-90%: 0.13485714285714287
+90-100%: 0.02057142857142857
+
+
+mean acc: 0.6510140787627086
+segment corrects:
+[1306, 1489, 1354, 793, 112]
+segment totals:
+[2491, 2337, 1841, 966, 124]
+accuracies for each segment (< 0.6, 0.6-0.7, 0.7-0.8, 0.9-1.0
+[0.5242874347651546, 0.6371416345742404, 0.7354698533405758, 0.8209109730848861, 0.9032258064516129]
